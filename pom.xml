@@ -15,13 +15,13 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
-	<!-- SCM and CONTINUOUS INTEGRATION URLS -->
+	<!-- SCM and CONTINUOUS INTEGRATION URLS
 	<scm>
 		<url>https://github.com/stefanos1316/wordbrain-solver/</url>
 		<connection>SSL</connection>
 		<developerConnection>scm:git:https://github.com/stefanos1316/wordbrain-solver/</developerConnection>
 		<tag>HEAD</tag>
-	</scm>
+	</scm> -->
 	<ciManagement>
 		<url>https://travis-ci.org/stefanos1316/wordbrain-solver/</url>
 		<system>Travis</system>

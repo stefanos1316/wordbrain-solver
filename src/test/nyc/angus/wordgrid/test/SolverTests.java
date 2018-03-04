@@ -110,12 +110,7 @@ public class SolverTests {
 		assertTrue(solutionSet.containsWord("percent"));
 	}
 
-	/**
-	 * A four-by-four grid where each individual word was found by the solver, but not the whole thing. This was due to
-	 * a bug found and explained in <a
-	 * href="https://github.com/angusmacdonald/wordbrain-solver/commit/1abe860e4913fac4599490c38049199cbc5d35d7">this
-	 * commit>.
-	 */
+	
 	@Test
 	public void twoSolutionBugCheck() {
 		final char[][] grid = { { 'b', 'o', 'f', 't' }, { 'o', 's', 'f', 'a' }, { 's', 'r', 'i', 'e' }, { 'e', 'h', 't', 'm' } };
