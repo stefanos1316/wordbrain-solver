@@ -8,7 +8,7 @@
 	<version>1.0</version>
 	<name>WordBrain Solver</name>
 	<description>A solver for WordBrain.</description>
-	<url>https://github.com/angusmacdonald/wordbrain-solver/</url>
+	<url>https://github.com/stefanos1316/wordbrain-solver/</url>
 
 	<!-- PROJECT PROPERTIES -->
 	<properties>
@@ -17,13 +17,13 @@
 
 	<!-- SCM and CONTINUOUS INTEGRATION URLS -->
 	<scm>
-		<url>https://github.com/angusmacdonald/wordbrain-solver/</url>
+		<url>https://github.com/stefanos1316/wordbrain-solver/</url>
 		<connection>SSL</connection>
-		<developerConnection>scm:git:https://github.com/angusmacdonald/wordbrain-solver/</developerConnection>
+		<developerConnection>scm:git:https://github.com/stefanos1316/wordbrain-solver/</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	<ciManagement>
-		<url>https://travis-ci.org/angusmacdonald/wordbrain-solver/</url>
+		<url>https://travis-ci.org/stefanos1316/wordbrain-solver/</url>
 		<system>Travis</system>
 	</ciManagement>
 
